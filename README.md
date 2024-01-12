@@ -15,7 +15,7 @@ To run the application:
 1. Ensure you have Java installed on your system.
 2. Clone the repository.
 3. Navigate to the `src` directory.
-4. Compile and run `GeneralTreeDriver.java` (Make sure you modify the src directory you want to display in the code).
+4. Compile and run `GeneralTreeDriver.java` (Make sure you modify the **path** variable in this class to the directory you want to display as a tree structure).
 
 ## Key Components
 - **GeneralTree**: The main class that implements the general tree structure. ([GeneralTree.java](https://github.com/AbdullahAlzeid/General-Tree-folder-structure/blob/main/src/GeneralTree.java))
