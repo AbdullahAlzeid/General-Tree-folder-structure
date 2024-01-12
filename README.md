@@ -1,6 +1,6 @@
 # General Tree Folder Structure
 
-![Alt text](/images/Tree.png)
+
 
 ## Overview
 This Java project implements a general tree data structure to represent and manipulate a folder structure. It includes functionalities such as displaying the tree, searching for nodes, and performing various tree traversals.
